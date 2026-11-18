@@ -11,9 +11,11 @@ By day I build backend software for the banking sector; in the rest of my time I
 
 | Project | What it is | Topics |
 |---------|-----------|--------|
+| [ft_linux](https://github.com/emptydeepblue/ft_linux) | A Linux distribution built from source, fully scripted | toolchain bootstrap, kernel, boot chain |
 | [strace](https://github.com/emptydeepblue/strace) | Reimplementation of `strace` with `ptrace` | process tracing, syscall ABI, signals |
 | [malloc](https://github.com/emptydeepblue/malloc) | Thread-safe memory allocator on `mmap` | virtual memory, heap internals |
 | [ft_ping](https://github.com/emptydeepblue/ft_ping) | `ping` from scratch with raw ICMP sockets | networking, packet parsing |
+| [lemipc](https://github.com/emptydeepblue/lemipc) | Multi-process game over System V IPC | shared memory, semaphores, concurrency |
 | [libasm](https://github.com/emptydeepblue/libasm) | libc functions in x86-64 assembly | calling conventions, syscalls |
 
 #### 🧰 Tools I work with
